@@ -1,5 +1,4 @@
 # scrapingshit
-shitty scraper
+worst shitty scraper ever
 
 
-scraping shit
